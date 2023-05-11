@@ -1,0 +1,24 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+#title{
+    color: white;
+    font-size: x-large;
+    width: 100%;
+    margin-top: 0%;
+}
+canvas{
+    border: 5px white solid;
+    box-shadow: 10px 10px 20px white;
+
+}
+#credit{
+    color: white;
+    font-size:larger;
+    font-family: Bruno Ace SC;
+    background-color: gray;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
